@@ -17,3 +17,21 @@ Este es un sitio web creado con HTML y CSS cuyo propósito es enseñar a las per
 ## Instalación y uso
 
 1. *Clona este repositorio:*
+
+Autoras
+
+Dayana Villamil
+
+Daniela Martinez
+
+Karen Gómez
+
+
+Licencia
+
+Este proyecto es solo con fines educativos y no tiene fines comerciales.
+
+
+---
+
+¡Esperamos que disfrutes aprendiendo con nuestro sitio!
