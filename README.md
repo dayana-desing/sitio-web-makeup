@@ -17,6 +17,7 @@ Este es un sitio web creado con HTML y CSS cuyo propósito es enseñar a las per
 ## Instalación y uso
 
 1. *Clona este repositorio:*
+https://dayana-desing.github.io/maquillaje-natural/
 
 Autoras
 
